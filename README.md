@@ -1,5 +1,11 @@
-# try-docker
-A docker that serves a simple web page
+# Try Docker
+A docker that serves a simple web page to test how far can i go with simple html, css and javascript. Also doubles as a practice of docker.
+
+<!--  TODO: here is a list of possible ideas    -->
+<!-- + make a portfolio page as homepage        -->
+<!-- + make a contact me page (namecard style)  -->
+<!-- + make a project showcase page             -->
+<!-- + make a blog post page                    -->
 
 ## How to run the code
 
